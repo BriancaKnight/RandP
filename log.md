@@ -114,3 +114,6 @@
 * 8:30: Debug git
 * 10:30: Meeting with Erik
 * 10:45: Restart Quiz app 
+------- LUNCH -------
+* 1:00: Continue Emotions Quiz
+* 2:30: Apply for Jobs 
