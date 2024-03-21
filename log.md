@@ -112,3 +112,5 @@
 #### Thursday, 3/21
 * 8:00: Whiteboarding warm up 
 * 8:30: Debug git
+* 10:30: Meeting with Erik
+* 10:45: Restart Quiz app 
