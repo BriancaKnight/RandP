@@ -117,3 +117,7 @@
 ------- LUNCH -------
 * 1:00: Continue Emotions Quiz
 * 2:30: Apply for Jobs 
+
+#### Friiday, 3/22
+* 8:00: Whiteboarding Warm Up
+* 8:30: Continue emotion quiz 
