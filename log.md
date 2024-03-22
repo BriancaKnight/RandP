@@ -126,3 +126,4 @@
 * 1:45: Finish applying for jobs
 * 2:00: Begin re-fining quiz app
 * 3:00: Expand logic of quiz app
+* 4:00: Continue working on expanded quiz app
