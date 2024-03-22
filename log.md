@@ -121,3 +121,4 @@
 #### Friiday, 3/22
 * 8:00: Whiteboarding Warm Up
 * 8:30: Continue emotion quiz 
+* 9:30: Apply to jobs
