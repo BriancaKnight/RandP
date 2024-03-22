@@ -124,3 +124,4 @@
 * 9:30: Apply to jobs
 ------- LUNCH -------
 * 1:45: Finish applying for jobs
+* 2:00: Begin re-fining quiz app
