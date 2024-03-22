@@ -123,3 +123,4 @@
 * 8:30: Continue emotion quiz 
 * 9:30: Apply to jobs
 ------- LUNCH -------
+* 1:45: Finish applying for jobs
