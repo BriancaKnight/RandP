@@ -133,3 +133,4 @@
 #### Tuesday, 3/26
 * 8:00: Whiteboarding practice
 * 8:30: Exorcsism swift lessons
+* 9:30: Begin next.js/prismic youtube video https://www.youtube.com/watch?v=nfZu56KsK_Q
