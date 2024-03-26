@@ -136,3 +136,4 @@
 * 9:30: Begin next.js/prismic youtube video https://www.youtube.com/watch?v=nfZu56KsK_Q
 ------- LUNCH -------
 * 1:00: next.js/prismic CONT
+* 3:00: CONT  next.js
