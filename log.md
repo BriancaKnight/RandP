@@ -127,3 +127,9 @@
 * 2:00: Begin re-fining quiz app
 * 3:00: Expand logic of quiz app
 * 4:00: Continue working on expanded quiz app
+
+------------- WEEK 3 -------------
+
+#### Tuesday, 3/26
+* 8:00: Whiteboarding practice
+* 8:30: Exorcsism swift lessons
