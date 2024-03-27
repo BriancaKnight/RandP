@@ -143,4 +143,5 @@
 * 8:30: Exorcsism swift lessons
 * 9:30: cont next.js/prismic youtube video https://www.youtube.com/watch?v=nfZu56KsK_Q follow along
 ------- LUNCH -------
- * 1:00: cont next.js
+* 1:00: cont next.js
+* 3:00: build site with next.js/prismic
