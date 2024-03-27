@@ -137,3 +137,7 @@
 ------- LUNCH -------
 * 1:00: next.js/prismic CONT
 * 3:00: CONT  next.js
+
+#### Wednesday, 3/27
+* 8:00: Whiteboarding practice
+* 8:30: Exorcsism swift lessons
