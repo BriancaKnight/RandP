@@ -149,3 +149,5 @@
 #### Thursday, 3/28
 * 8:00: Whiteboarding
 * 8:30: Exorcism swift lessons
+* 9:00: Cohort scrum & pair scrum
+* 9:30: CONT next.js site
