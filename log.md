@@ -155,3 +155,4 @@
 * 11:30: CONT next.js site
 ------- LUNCH -------
 * 1:00: CONT next.js site
+* 3:00: Almost done with next.js site!
