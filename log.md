@@ -151,3 +151,7 @@
 * 8:30: Exorcism swift lessons
 * 9:00: Cohort scrum & pair scrum
 * 9:30: CONT next.js site
+* 11:15: Meeting with Erik
+* 11:30: CONT next.js site
+------- LUNCH -------
+* 1:00: CONT next.js site
