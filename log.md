@@ -145,3 +145,7 @@
 ------- LUNCH -------
 * 1:00: cont next.js
 * 3:00: build site with next.js/prismic
+
+#### Thursday, 3/28
+* 8:00: Whiteboarding
+* 8:30: Exorcism swift lessons
