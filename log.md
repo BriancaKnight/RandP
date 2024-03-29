@@ -156,3 +156,6 @@
 ------- LUNCH -------
 * 1:00: CONT next.js site
 * 3:00: Almost done with next.js site!
+
+#### Friday, 3/29
+* 10:00: Wrap up next.js site
