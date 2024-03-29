@@ -160,3 +160,5 @@
 #### Friday, 3/29
 * 10:00: Wrap up next.js site
 * 1:30: Finish and deploy next.js site https://flowrise-prismic-pink.vercel.app/
+------- LUNCH -------
+* 2:00: Begin MVP capstone proposal.
