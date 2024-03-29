@@ -118,7 +118,7 @@
 * 1:00: Continue Emotions Quiz
 * 2:30: Apply for Jobs 
 
-#### Friiday, 3/22
+#### Friday, 3/22
 * 8:00: Whiteboarding Warm Up
 * 8:30: Continue emotion quiz 
 * 9:30: Apply to jobs
@@ -162,3 +162,4 @@
 * 1:30: Finish and deploy next.js site https://flowrise-prismic-pink.vercel.app/
 ------- LUNCH -------
 * 2:00: Begin MVP capstone proposal.
+* 4:00: Refactor quiz app
