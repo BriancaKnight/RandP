@@ -170,3 +170,6 @@
 * Cohort scrum and pair scrum 
 * Article on responsive design https://www.freecodecamp.org/news/responsive-design-best-practices/
 * Work on this responsive design worksheet https://responsify.com/wp-content/uploads/2015/07/Responsify_MaximizingCustomerRetention-WorkSheet.pdf
+* Study responsive design on MDN web docs
+------- LUNCH -------
+* CONT exorcism swift lessons 
