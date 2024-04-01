@@ -163,3 +163,8 @@
 ------- LUNCH -------
 * 2:00: Begin MVP capstone proposal.
 * 4:00: Refactor quiz app
+
+#### Monday, 4/1
+* 8:00: Whiteboarding warm up
+* Exorcism swift lessons
+* Cohort scrum and pair scrum 
