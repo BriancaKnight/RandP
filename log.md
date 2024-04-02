@@ -173,3 +173,5 @@
 * Study responsive design on MDN web docs
 ------- LUNCH -------
 * CONT exorcism swift lessons 
+* Read article of responsivie design for swift https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-an-adaptive-layout-with-viewthatfits
+
