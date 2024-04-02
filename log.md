@@ -177,3 +177,6 @@
 
 #### Tuesday, 4/2
 * 8:00: Whiteboarding
+* 8:30: Exorcism swift lessons
+* 9:00: Cohort & pair scrum
+* 9:30: Begin tailwind tutorial https://www.youtube.com/watch?v=ft30zcMlFao&t=2s
