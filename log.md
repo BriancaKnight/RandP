@@ -175,3 +175,5 @@
 * CONT exorcism swift lessons 
 * Read article of responsivie design for swift https://www.hackingwithswift.com/quick-start/swiftui/how-to-create-an-adaptive-layout-with-viewthatfits
 
+#### Tuesday, 4/2
+* 8:00: Whiteboarding
